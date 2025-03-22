@@ -1,0 +1,49 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  text-align: center;
+  color: black;
+}
+#main {
+  background-color: #84B086;
+  width: 40rem;
+  height: 27rem;
+}
+input {
+  width: 28.7rem;
+  border: none;
+  height: 1.4rem;
+}
+button {
+  height: 1.68rem;
+  width: 5.4rem;
+  margin-left: 0.5rem;
+  background-color: rgb(179, 250, 179);
+  cursor: pointer;
+  border: none;
+}
+button:hover {
+  background-color: #fdfdfd;
+}
+#manu {
+  display: flex;
+  margin-left: 2.5rem;
+  margin-top: 1rem;
+}
+img {
+  background-image: url(image/gitlogo.png);
+  height: 15rem;
+  width: 15rem;
+  background-size: contain;
+  border: 1px solid #125015;
+}
+#text {
+  width: 19.7rem;
+  text-align: left;
+}
+#name {
+  margin: 0;
+  margin-left: 1rem;
+  margin-top: 1rem;
+  font-size: 1.5rem;
+}
